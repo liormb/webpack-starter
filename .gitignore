@@ -30,3 +30,4 @@ node_modules
 
 # Dependency directory
 .idea
+.idea/*
