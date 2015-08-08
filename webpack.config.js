@@ -9,8 +9,9 @@ var babelConfig = {
 };
 
 module.exports = {
-    entry: './modules/main.js',
+    entry: './main.es.js',
     output: {
+        path: __dirname,
         filename: 'bundle.js'
     },
     module: {

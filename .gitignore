@@ -31,3 +31,6 @@ node_modules
 # Dependency directory
 .idea
 .idea/*
+
+# Bundle file
+bundle.js
